@@ -1,0 +1,8 @@
+{
+	"lang":"{{LANGUAGE}}",
+	"lat":{{LAT}},
+	"lon":{{LON}},
+	"city":{
+		"name":"{{CITY}}"
+	}
+}
