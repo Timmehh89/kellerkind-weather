@@ -10,10 +10,7 @@ sudo apt get install jq
 
 ### Installation
 
-<!-- 1. **Download source code**:
-	```
-	wget https://
-	``` -->
+1. **Download source code**: from the repository 
 2. **Execute install.sh**:
 	Input your City, latitude, longitude and language.
 	```
