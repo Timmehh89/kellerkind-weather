@@ -20,7 +20,7 @@ sudo apt get install jq
 3. **Export Path**:
 	add the path export to your bash config (~/.bashrc or ~/.zshrc)
 	```
-	export PATH="/usr/local/keller_kind_weather/:$PATH" >> $HOME/{{yourBashRC}}
+	echo 'export PATH="/usr/local/keller_kind_weather/:$PATH"' >> $HOME/{{yourBashRC}}
 	```
 4. **Create Alias**:
 add an following alias to your bash config
