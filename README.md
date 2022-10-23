@@ -1,6 +1,6 @@
 # KellerKind-Weather
 ## About The Project
-kellerkind-weather is a cli to print the current local weather. For people which never leave the terminal.
+kellerkind-weather is a cli to print the current local weather. For people who never leave the terminal.
 kellerkind-weather uses a open weather api from <a href="https://open-meteo.com/">Weather data by Open-Meteo.com</a>.
 ## Getting Started
 ### Prequesitions
